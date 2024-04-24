@@ -8,6 +8,6 @@ int main(){
     cin>>a;
     cout<<"\nNhap b: ";
     cin>>b;
-    cout<<"Tong a + b ="<<a+b;
+    cout<<"Tich a x b ="<<a*b;
     return 0;
 }
